@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "333067961259",
+    "project_id": "movil2-71e00",
+    "storage_bucket": "movil2-71e00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333067961259:android:16988f0633a873b17788ee",
+        "android_client_info": {
+          "package_name": "com.cesde.movil2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333067961259-42imhf0jcaahdk1fc1q8s2jl5ih93v7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQlfGXnnPCCZGah7nrHKeIuAgVequTiM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333067961259-42imhf0jcaahdk1fc1q8s2jl5ih93v7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333067961259:android:b28d4a9caa4f4fe87788ee",
+        "android_client_info": {
+          "package_name": "com.example.tiendacosas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333067961259-42imhf0jcaahdk1fc1q8s2jl5ih93v7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQlfGXnnPCCZGah7nrHKeIuAgVequTiM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333067961259-42imhf0jcaahdk1fc1q8s2jl5ih93v7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
